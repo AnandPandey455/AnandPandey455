@@ -12,7 +12,7 @@
         </div>
         <br>
         <div class="follow">
-            <li><b>Followers <U>2.3 million</U></b><i>  (From all the different plateforms)</i></li>
+            <li><b>Followers <U>20</U></b><i>  (From all the different plateforms)</i></li>
             <li><b>Current Server <u>England</u></b></li>
             <li><b>Contribution <u>700+ codes</u></b></li>
         </div>
