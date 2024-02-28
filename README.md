@@ -49,7 +49,11 @@
             <p1>Mail</p1>
             <br>
             <i class="fa-solid fa-envelope"></i>
-            <a href="mailto:mr.codesmen@gmail.com">  mr.codesmen@gmail.com<al3>
+            <a href="mailto:mr.codesmen@gmail.com">  mr.codesmen@gmail.com</a>
+            <p1>Web</p1>
+            <br>
+            <i class="fa-solid fa-envelope"></i>
+            <a href="https://anandpandey455.github.io/AnandPandey.github.io-/">  AnandPandey.guthub.io</a>
         </div>
         <br>
         <br>
