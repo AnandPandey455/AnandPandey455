@@ -37,7 +37,7 @@
                 <hr>
                 <p><B><u>C++</u> CPP</B></p>
             </div>
-            <p><b>Have a experience of 6 years with these languages</b></p>
+            <p><b>Have an experience of 6 years with these languages</b></p>
         </div>
         <hr>
         <div class="ref">
