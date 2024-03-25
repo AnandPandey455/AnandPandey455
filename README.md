@@ -41,19 +41,13 @@
         </div>
         <hr>
         <div class="ref">
-            <p1>Channel</p1>
-            <br>
-            <i class="fa-brands fa-youtube"></i>
-            <a href="https://youtube.com/@Mr.CodesMen?si=u67oVk3E-eQV6jZJ">@Mr. CodesMen</a>
-            <br>
-            <br>
-            <p1>Mail</p1>
+            <p>Mail</p>
             <br>
             <i class="fa-solid fa-envelope"></i>
             <a href="mailto:mr.codesmen@gmail.com">  mr.codesmen@gmail.com</a>
             <br>
             <br>
-            <p1>Web</p1>
+            <p>Web</p>
             <br>
             <i class="fa-solid fa-envelope"></i>
             <a href="https://anandpandey455.github.io/AnandPandey.github.io-/">  AnandPandey.guthub.io</a>
