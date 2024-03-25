@@ -50,7 +50,7 @@
             <p>Web</p>
             <br>
             <i class="fa-solid fa-envelope"></i>
-            <a href="https://anandpandey455.github.io/AnandPandey.github.io-/">  AnandPandey.guthub.io</a>
+            <a href="https://anandpandey455.github.io/AnandPandey.github.io-/">  AnandPandey.github.io</a>
         </div>
         <br>
         <br>
