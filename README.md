@@ -44,7 +44,7 @@
             <p>Mail</p>
             <br>
             <i class="fa-solid fa-envelope"></i>
-            <a href="mailto:mr.codesmen@gmail.com">  mr.codesmen@gmail.com</a>
+            <a href="mailto:anand-pandey1@outlook.com">  anand-pandey1@outlook.com</a>
             <br>
             <br>
             <p>Web</p>
