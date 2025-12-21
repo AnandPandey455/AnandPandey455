@@ -16,29 +16,6 @@
             <li><b>Current Server <u>England</u></b></li>
             <li><b>Contribution <u>1000 codes</u></b></li>
         </div>
-        <div class="about">
-            <h2><i class="fa-solid fa-question fa-fade"></i><b> About</b>
-            </h2>
-            <p> 6 Programming languages Known</p>
-            <div class="lang">
-                <i class="fa-brands fa-python"> Python</i>
-                <br>
-                <hr>
-                <i class="fa-brands fa-java"> Java</i>
-                <br>
-                <hr>
-                <i class="fa-brands fa-php"> PHP</i>
-                <br>
-                <hr>
-                <i class="fa-brands fa-html5"> HTML</i>
-                <br>
-                <hr>
-                <i class="fa-brands fa-css3-alt"> CSS</i>
-                <hr>
-                <p><B><u>C++</u> CPP</B></p>
-            </div>
-            <p><b>Have an experience of 6 years with these languages</b></p>
-        </div>
         <hr>
         <div class="ref">
             <p>Mail</p>
